@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 ---
