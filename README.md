@@ -19,9 +19,9 @@
 
 ## 🛠️ Tech Stack  
 
-<h4 align="centre">Frontend</h4>
+<h4 align="center">Frontend</h4>
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -36,9 +36,9 @@
 
 ---
 
-<h4 align="centre">Backend</h4>
+<h4 align="center">Backend</h4>
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
@@ -53,9 +53,9 @@
 
 ---
 
-<h4 align="centre">Database</h4>
+<h4 align="center">Database</h4>
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -66,9 +66,9 @@
 
 ---
 
-<h4 align="centre">Machine Learning & DSA</h4>
+<h4 align="center">Machine Learning & DSA</h4>
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
@@ -76,14 +76,13 @@
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode logo" />
-  <img width="18" />
 </div>
 
 ---
 
-<h4 align="centre">Others</h4>
+<h4 align="center">Others</h4>
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -102,3 +101,4 @@
   <a href="mailto:poovarasang1212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/POOVARASAN-03"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
