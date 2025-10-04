@@ -13,7 +13,6 @@
 - 🤖 Actively working on **Machine Learning & AI-based projects** with real-world applications  
 - 🌱 Currently learning and building projects using **MERN stack & Spring Boot**  
 - 📚 Enthusiastic about **cloud technologies, security, and scalable web apps**  
-- 🏆 Completed **600+ LeetCode problems** with focus on **Data Structures & Algorithms**  
 - ✨ Goal: To become an **AI/ML Specialist** and **Full-Stack Developer**  
 
 ---
@@ -77,6 +76,7 @@
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="scikit-learn logo" />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode logo" />
+  <img width="18" />
 </div>
 
 ---
