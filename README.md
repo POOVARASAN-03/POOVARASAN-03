@@ -6,6 +6,18 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+- 🌟 Strong foundation in **Java, Python, and Full-Stack Development**  
+- 🔍 Interested in solving **DSA problems** and continuously improving problem-solving skills  
+- 🤖 Actively working on **Machine Learning & AI-based projects** with real-world applications  
+- 🌱 Currently learning and building projects using **MERN stack & Spring Boot**  
+- 📚 Enthusiastic about **cloud technologies, security, and scalable web apps**  
+- 🏆 Completed **600+ LeetCode problems** with focus on **Data Structures & Algorithms**  
+- ✨ Goal: To become an **AI/ML Specialist** and **Full-Stack Developer**  
+
+---
+
 ## 🛠️ Tech Stack  
 
 <h4 align="left">Frontend</h4>
