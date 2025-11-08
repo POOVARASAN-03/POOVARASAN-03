@@ -1,4 +1,4 @@
-# Hi there, I'm Poovarasan 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DB2C&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Poovarasan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 **Final Year B.E. Computer Science Engineering (AI & ML)** @ Easwari Engineering College  
 💡 Passionate about **Machine Learning, Artificial Intelligence, and Web Development**  
